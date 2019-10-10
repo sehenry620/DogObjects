@@ -1,0 +1,58 @@
+body {
+    background: lightblue;
+    font-family: Comic Sans MS;
+    
+}
+
+h1 {
+    color: black;
+    font-family: Comic Sans MS;
+    position: relative;
+    text-align: center;
+}
+
+#love {
+    color: black;
+    border-radius: 12px;
+    width: 125px;
+    outline: none;
+    position: relative;
+    left: 35%;    
+}
+
+#reset {
+    color: black;
+    border-radius: 12px;
+    width: 125px;
+    outline: none;
+    position: relative;
+    left: 40%;
+
+}
+
+#feed {
+    color: black;
+    border-radius: 12px;
+    width: 125px;
+    outline: none;
+    position: relative;
+    left: 30%;
+}
+
+#dogcontainer {
+    color: black;
+    font-family: Comic Sans MS;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;;
+}
+
+#foodlovecontainer {
+    color: black;
+    font-family: Comic Sans MS;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
