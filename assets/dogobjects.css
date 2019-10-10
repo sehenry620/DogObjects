@@ -39,20 +39,75 @@ h1 {
     left: 30%;
 }
 
-#dogcontainer {
+/* #dogcontainer {
     color: black;
     font-family: Comic Sans MS;
     position: relative;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;;
-}
+} */
 
-#foodlovecontainer {
+#foodlove1 {
     color: black;
     font-family: Comic Sans MS;
     position: relative;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    left: 148px;
+
 }
+
+#foodlove2 {
+    color: black;
+    font-family: Comic Sans MS;
+    position: relative;
+    left: 535px;
+    bottom: 45px;
+
+}
+
+#foodlove3 {
+    color: black;
+    font-family: Comic Sans MS;
+    position: relative;
+    left: 905px;
+    bottom: 89px;
+
+}
+/* #dogpic1{
+    position: relative;
+    left: 90px;
+}
+
+#dogpic2{
+    position: relative;
+    left: 470px;
+    bottom: 350px;
+}
+
+#dogpic3{
+    position: relative;
+    left: 855px;
+    bottom: 700px;
+} */
+
+#Sandy {
+    position: relative;
+    right: 20px;
+    bottom: 377px;
+    text-align: center;
+}
+
+#Saphira {
+    position: relative;
+    text-align: center;
+    right: 400px;
+}
+
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+  }
