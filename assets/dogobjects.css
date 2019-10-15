@@ -1,11 +1,11 @@
 body {
-    background: lightblue;
+    background: #00539C;
     font-family: Comic Sans MS;
     
 }
 
 h1 {
-    color: black;
+    color: white;
     font-family: Comic Sans MS;
     text-align: center;
 }
@@ -25,24 +25,29 @@ h1 {
 
 h2 {
     text-align: center;
+    color: white;
 
 }
 
 footer {
     text-align: center;
+    color: white;
 
 }
 
 #foodlove1 {
     text-align: center;
+    color: white;
 }
 
 #foodlove2 {
     text-align: center;
+    color: white;
 }
 
 #foodlove3 {
     text-align: center;
+    color: white;
 }
 
 #love {
